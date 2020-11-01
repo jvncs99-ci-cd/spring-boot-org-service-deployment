@@ -1,2 +1,1 @@
-# spring-boot-org-service-deployment
-spring-boot-org-service-deployment
+# spring-boot-org-service-k8s-manifests
